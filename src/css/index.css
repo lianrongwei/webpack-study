@@ -1,0 +1,9 @@
+li {
+	list-style: none;
+}
+.box {
+	width: 200px;
+	height: 100px;
+	background: url(../images/children.jpg);
+	background-size: cover;
+}

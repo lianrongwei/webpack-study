@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+html ul,
+body ul {
+  margin: 0;
+  padding: 0;
+}
+html ul li,
+body ul li {
+  color: #FFF;
+  padding-left: 10px;
+  font-size: 12PX;
+  line-height: 30PX;
+}
